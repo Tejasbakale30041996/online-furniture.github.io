@@ -76,7 +76,7 @@ body {
 }
 
 .header {
-    background: url(../../img/furniture-store-hero-bg.jpg) no-repeat;
+    background: url(../img/furniture-store-hero-bg.jpg) no-repeat;
     background-size: cover;
     position: relative;
     z-index: 1;
