@@ -1163,7 +1163,7 @@ body {
 }
 
 .living-room {
-    background: url(../../img/furniture-store-hero-bg.jpg) no-repeat;
+    background: url(../img/furniture-store-hero-bg.jpg) no-repeat;
     background-size: cover;
     padding-top: 150px;
     position: relative;
